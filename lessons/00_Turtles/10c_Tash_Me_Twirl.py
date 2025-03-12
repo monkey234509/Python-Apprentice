@@ -7,5 +7,6 @@ so the moustache will twirl when you click on it.
 Hint: See 08a_More Turtle Programs, section 'Click on the Turtle'
 """
 
-... # Your code here
+
+
 

@@ -16,5 +16,19 @@ screen.setup(width=600, height=600)
 screen.bgcolor('white')
 
 t = turtle.Turtle()
+t.turtlesize(10,10)
+t.color('blue')
+for i in range(6):
+    t.forward(50)
+    t.left(360/6)
 
-... # Your Code Here
+
+
+
+
+
+
+
+
+turtle.exitonclick()
+
